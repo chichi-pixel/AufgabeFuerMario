@@ -49,10 +49,10 @@ body {
   h1,
   p {
     width: 100%;
-    padding: 20px;
+    padding: 5px;
     margin: 10px;
     line-height: 20px;
-    max-width: 3000px;
+    max-width: 1000px;
     color: #777;
     text-align: center;
     background: #ebebeb;
